@@ -12,4 +12,3 @@
 [STEAM_TAG:graphics]
 [STEAM_TAG:item]
 
-[STEAM_FILE_ID:2920111210]
