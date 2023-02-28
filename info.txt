@@ -1,0 +1,15 @@
+[ID:tum_wooden_clogs]
+[NUMERIC_VERSION:120]
+[DISPLAYED_VERSION:1.19]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:119]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:1.19]
+[AUTHOR:Comrade Tum]
+[NAME:Wooden Clogs]
+[DESCRIPTION:Allows you to craft clogs from wood at the craftsdwarf workshop]
+
+[STEAM_TITLE:Wooden Clogs]
+[STEAM_TAG:mod]
+[STEAM_TAG:graphics]
+[STEAM_TAG:item]
+
+[STEAM_FILE_ID:2920111210]
